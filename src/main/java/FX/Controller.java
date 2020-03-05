@@ -35,10 +35,10 @@ public class Controller {
 	private ListView<String> resultList;
 
 	private final ArrayList<String> displayCats = new ArrayList<>(Arrays.asList("None", "Aladdin",
-			"Alice in Wonderland", "Animal", "Bearded", "Beauty and the Beast", "Big Eared", "Blue", "Boys",
-			"Cat or Dog", "Coco", "Fairies", "Finding Nemo/Dory", "Flying", "Four-legged", "Frozen", "Girls", "Green",
+			"Alice in Wonderland", "Animal", "Bearded", "Beauty and the Beast", "Big-Eared", "Blue", "Boys",
+			"Cat or Dog", "Cinderella", "Coco", "Fairies", "Finding Nemo/Dory", "Flying", "Four-legged", "Frozen", "Girls", "Green",
 			"Hat-wearing", "Haunted Mansion", "Hercules", "Inside Out", "Jewelry", "Mickey and Friends", "Moana",
-			"Monsters Inc.", "Mulan", "Nightmare Before Christmas", "Orange", "Outer Space", "Pirates of the Caribbean",
+			"Monsters Inc.", "Mulan", "Nightmare Before Christmas", "Onward", "Orange", "Outer Space", "Pirates of the Caribbean",
 			"Pixar", "Pocahontas", "Prince", "Princess and the Frog", "Princesses", "Purple", "Red", "Rescue Rangers",
 			"Robin Hood", "Scary", "Sleeping Beauty", "Snow White", "Star Wars", "Tangled", "The Emperor's New Groove",
 			"The Incredibles", "The Jungle Book", "The Lion King", "The Little Mermaid", "The Muppets", "Toy Story",
@@ -154,7 +154,7 @@ public class Controller {
 
 	private void openFile() {
 		try {
-			br = new BufferedReader(new FileReader("DisneyEmojiBlitzCategories1.3.csv"));
+			br = new BufferedReader(new FileReader("DisneyEmojiBlitzCategories1.4.csv"));
 		} catch (FileNotFoundException e) {
 			e.getStackTrace();
 		}
