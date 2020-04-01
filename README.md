@@ -1,7 +1,7 @@
 # DisneyEmojiBlitzCategoriesHelper
 
 ## UPDATE
-Effective April 1, 2020, this application will no longer be updated. A website has been replaced for this. To see the website you can click [here](http://debsidekick.com/)
+Effective April 1, 2020, this application will no longer be updated. I created a website called Disney Emoji Blitz Sidekick which makes it easier for others to access on multiple devices and with no installation required. To see the website you can click [here](http://debsidekick.com/)
 
 ## What is Disney Emoji Blitz?
 Disney Emoji Blitz (DEB) is a Match-3 game which features different Emojis from many Disney franchises including Star Wars. You can download it for *free* on the [App Store](https://apps.apple.com/app/id1017551780) or [Google Play](https://play.google.com/store/apps/details?id=com.disney.emojimatch_goo&referrer=utm_source%3Dko_8c695e46b223008ad%26utm_medium%3D1%26utm_campaign%3Dkoemoji-blitz-google55a93de56c122358f70aa4b8c1%26utm_term%3D%26utm_content%3D%26)
