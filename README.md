@@ -1,5 +1,8 @@
 # DisneyEmojiBlitzCategoriesHelper
 
+## UPDATE
+Effective April 1, 2020, this application will no longer be updated. A website has been replaced for this. To see the website you can click [here](debsidekick.com)
+
 ## What is Disney Emoji Blitz?
 Disney Emoji Blitz (DEB) is a Match-3 game which features different Emojis from many Disney franchises including Star Wars. You can download it for *free* on the [App Store](https://apps.apple.com/app/id1017551780) or [Google Play](https://play.google.com/store/apps/details?id=com.disney.emojimatch_goo&referrer=utm_source%3Dko_8c695e46b223008ad%26utm_medium%3D1%26utm_campaign%3Dkoemoji-blitz-google55a93de56c122358f70aa4b8c1%26utm_term%3D%26utm_content%3D%26)
 
@@ -13,7 +16,8 @@ In the game, there are missions that have you earn prizes, level up and earn mor
 4. You can run the program from there by using `gradle run`. If you want a distribution copy, go to *build/distributions* and choose either the *.tar* or *.zip*
 5. If using the distribution, make sure the *.csv* file is included inside the *bin* of the distribution folder, otherwise it will not produce results. Also, make sure you are using `cd <path-to-bin-folder>` in the terminal or command line prompt or you will get errors. You can then run the batch file or the unix executable located in the *bin* of the distribution by dragging the file into the terminal or command line prompt.
 
-## What's next?
-* There are some bugs that need to be handeled as this may not run on other operating systems (this does work on MacOS)
-* As more emojis are added over time, getting the results might be longer. I am planning on switching over to a SQLite database when this happens.
-* I might expand the program to only include emojis that you have. 
+~~## What's next?
+* There are some bugs that need to be handeled as this may not run on other operating systems (this does work on MacOS)~~
+~~* As more emojis are added over time, getting the results might be longer. I am planning on switching over to a SQLite database when this happens.
+* I might expand the program to only include emojis that you have. ~~
+
